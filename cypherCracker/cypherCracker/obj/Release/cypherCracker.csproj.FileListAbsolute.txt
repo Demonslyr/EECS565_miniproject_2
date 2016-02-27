@@ -3,3 +3,9 @@ C:\Users\Dan\Documents\Visual Studio 2015\Projects\cypherCracker\cypherCracker\b
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\cypherCracker\cypherCracker\bin\Release\cypherCracker.pdb
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\cypherCracker\cypherCracker\obj\Release\cypherCracker.exe
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\cypherCracker\cypherCracker\obj\Release\cypherCracker.pdb
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\bin\Release\cypherCracker.exe.config
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\obj\Release\cypherCracker.exe
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\obj\Release\cypherCracker.pdb
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\bin\Release\cypherCracker.exe
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\bin\Release\cypherCracker.pdb
+C:\Users\Dan\Documents\GitHub\EECS_565_mini_project_2\cypherCracker\cypherCracker\obj\Release\cypherCracker.csprojResolveAssemblyReference.cache
